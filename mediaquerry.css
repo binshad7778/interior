@@ -1,0 +1,107 @@
+@media(max-width:500px){
+   .flux{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   padding-top: 200px;
+   width: 900px;
+   /* background-color: aqua; */
+
+   }
+   .innerbighouse{
+      width: 700px;
+   }
+   .mainhead{
+      width: 900px;
+      /* background-color: aqua; */
+      font-size: 50px;
+
+   }
+   .navbar{
+      height: 200px;
+      display: flex;
+      flex-direction: column;
+   }
+   .butcontainer{
+      /* background-color: rgb(3, 98, 98); */
+      width: 800px;
+   }
+   .left{
+      /* width: 700px; */
+   }
+   .weserve{
+      width: 900px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      /* background-color: aqua; */
+   }
+   .screen{
+      height: 300px;
+      width: 200px;
+   }
+   .buttextimg{
+      width: 900px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      /* background-color: aqua; */
+   }
+   .weprovidet{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+   }
+   .arch{
+      display: flex;
+      flex-direction: column;
+      height: 100vh;
+      width: 900px;
+      /* background-color: blue; */
+      justify-content: space-around;
+      align-items: center;
+   }
+   .arch1{
+      height: 60vh;
+      width: 900px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-around;
+      text-align: center;
+      align-items: center;
+      /* background-color: aqua; */
+      
+   }
+   .logoqr{
+      width: 900px;
+
+   }
+   .lastsub{
+      width: 900px;
+   }
+   .albeauty{
+      width: 900px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      
+   }
+   .inalbeauty{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      /* background-color: blueviolet; */
+      width: 900px;
+   }
+   .button2{
+      text-align: center;
+
+   }
+     
+}
